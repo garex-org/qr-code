@@ -1,0 +1,13 @@
+{
+  "namespace": "QrCode",
+  "fsNamespace": "qr-code",
+  "loader": "../qr-code.js",
+  "global": "qr-code.global.js",
+  "corePolyfilled": "qr-code.y9wpr14h.js",
+  "core": "qr-code.orxjfzvr.js",
+  "components": {
+    "qr-code": {
+      "$": "1pxxj8db"
+    }
+  }
+}
